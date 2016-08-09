@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wpexia&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wpexia.com/"/>
+  <updated>2016-08-09T00:05:53.000Z</updated>
+  <id>http://wpexia.com/</id>
+  
+  <author>
+    <name>wpexia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wpexia.com/2015/12/cirmqgrm900009j2o8x4p8too/"/>
+    <id>http://wpexia.com/2015/12/cirmqgrm900009j2o8x4p8too/</id>
+    <published>2015-12-31T06:49:13.000Z</published>
+    <updated>2016-08-09T00:05:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu下 Sublime Text 3 中文体验</title>
+    <link href="http://wpexia.com/2015/08/cirmqgrmf00019j2oaqp8jklc/"/>
+    <id>http://wpexia.com/2015/08/cirmqgrmf00019j2oaqp8jklc/</id>
+    <published>2015-08-31T06:49:13.000Z</published>
+    <updated>2016-08-09T00:05:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<h2 id="0-00"><a href="#0-00" class="headerlink" title="0*00"></a>0*00</h2><hr>
+<p>Ubuntu下sublime text3 的中文体验实在是差！！</p>
+<a id="more"></a>
+<h2 id="0-01"><a href="#0-01" class="headerlink" title="0*01"></a>0*01</h2><hr>
+<p>起因是因为想用sublime作为hexo做的博客的文本编辑器，弄了一大堆插件，markdown的语法高亮（<a href="https://packagecontrol.io/packages/MarkdownLight" target="_blank" rel="external">Markdown​Light</a>），实时预览（<a href="https://packagecontrol.io/packages/OmniMarkupPreviewer" target="_blank" rel="external">Omni​Markup​Previewer</a>）。然后等准备开始写的时候才发现，诶，这货怎么输入不了中文！</p>
+<h2 id="0-02"><a href="#0-02" class="headerlink" title="0*02"></a>0*02</h2><hr>
+<p>上google一查发现挺多哥们遇到了和我一样的问题（坑不会只让你一个人踩的），然后一路搜下去，果然各路大大连完整的解决方案项目都已经在git上放了两年了（<a href="https://github.com/lyfeyaj/sublime-text-imfix" target="_blank" rel="external">sublime-text-imfix</a>），照着大大们的方法做了一下，又由于系统里已经安装的软件的版本冲突和依赖问题，没法用apt-get装上libgtk2.0-dev，所以又换了个方法直接下大大编译好的二进制库文件（.so），然后用带LD_PRELOAD的命令启动Sublime Text 3 </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">LD_PRELOAD=/opt/sublime_text/libsublime-imfix.so subl</div></pre></td></tr></table></figure>
+<p>一打开，换到中文输入法，输了半天，发现一直没反应，仔细一看才看到，输入框不跟随，一直在角落里呆着。此时我的内心几乎是崩溃的。</p>
+<h2 id="0-03"><a href="#0-03" class="headerlink" title="0*03"></a>0*03</h2><hr>
+<p>照理说也装上库，写个启动脚本也不麻烦，输入框不跟随也还能凑合凑合，但是在接下来的使用中发现了更蛋疼的问题。</p>
+<p>我的插件都不能正常运行了！上网搜，发现大家都一样，而且没有什么解决办法。。。</p>
+<p>一个没有插件的Sublime Text 我拿着有什么用！！还不如gedit！</p>
+<h2 id="0-04"><a href="#0-04" class="headerlink" title="0*04"></a>0*04</h2><hr>
+<p>Sublime Text 3 出来也有很长一段时间了（没记错应该好几年了），一直以来对中文的支持都不是很好，但是在中国广大的IT民工面前，有一点审美追求的人还是会选择用Sublime Text。<br>我之前在使用windows平台作为工作环境时，也一直在使用。<br>虽然它有一些不尽如人意的地方，但众多的网友和繁荣的packagecontrol.io社区，给这个编辑器提供了很多可能和修补。<br>但是在Ubuntu下，Sublime Text 3对中文的支持只能让我放弃了这个编辑器。<br>对我个人来说，我真的觉得很遗憾。</p>
+<h2 id="0-05"><a href="#0-05" class="headerlink" title="0*05"></a>0*05</h2><hr>
+<p>在修复过程中用到的一些文章，虽然最终没能完美的解决问题，但是只是能够支持基本的使用，这里还是把链接贴在下面：</p>
+<p><a href="http://www.jianshu.com/p/bf05fb3a4709" target="_blank" rel="external">《解决Ubuntu下Sublime Text 3无法输入中文》</a><br><a href="http://html5beta.com/page/ubuntu-14-04-install-fcitx-sougoupinyin-sublime-text-3-chinese-input-fix.html" target="_blank" rel="external">《UBUNTU 14.04 安装fcitx-sougoupinyin, sublime text 3, 解决中文输入》</a><br><a href="http://blog.csdn.net/cywosp/article/details/32350899" target="_blank" rel="external">《点滴记录——在Ubuntu 14.04中使SublimeText 3支持中文输入法》</a><br><a href="https://github.com/lyfeyaj/sublime-text-imfix" target="_blank" rel="external">《Sublime Text 2/3 输入法修复[Ubuntu(Debian)]》</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;h2 id=&quot;0-00&quot;&gt;&lt;a href=&quot;#0-00&quot; class=&quot;headerlink&quot; title=&quot;0*00&quot;&gt;&lt;/a&gt;0*00&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;Ubuntu下sublime text3 的中文体验实在是差！！&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
